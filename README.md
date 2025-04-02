@@ -27,3 +27,5 @@ Modo de desenho que tem que aparecer
 ![image](https://github.com/user-attachments/assets/a1949a3e-67fa-42a6-b276-cebbf205bf92)
 
 
+Tipo de Formulário:
+![image](https://github.com/user-attachments/assets/0b18b5ed-5f90-4e0d-b8d9-3672e8257e46)
